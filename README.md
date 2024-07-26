@@ -1,3 +1,3 @@
 # The ARG I made because **fuck you**
-just follow the links and find the codes. also i beg of you not to look into the html and just look at the pages(too lazy to encrypt anything) and also everything you need should be visible and also I write shitty html. there's nothing actually preventing you though so if you really want to stare at HTML for 10 hours go ahead. another rule that I'm not actually enforcing but would appreciate is if you wouldn't just bruteforce stuff, and instead actually solve the puzzles. also if you don't read the lore and just skip through the puzzles ill fucking shoot you. 
-:3
+just follow the links and find the codes. btw i write shitty html so be careful looking through it. most stuff can be found without looking at it, but reading the html can speed some stuff up. there's nothing actually preventing you though so if you really want to stare at HTML for 10 hours go ahead. another rule that I'm not actually enforcing but would appreciate is if you wouldn't just try to bruteforce stuff the whole time, and instead actually solve the puzzles. also if you don't read the lore and just skip through the puzzles ill fucking shoot you. 
+# :3
